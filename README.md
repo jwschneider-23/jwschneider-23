@@ -4,7 +4,7 @@ I'm an early-career engineer determined to have a high-impact career. The pursui
 
 I'm pursuing my master's degree in the Engineering of Artificial Intelligence at Stony Brook University. My studies have given me experience in machine learning, data engineering, and software engineering. I'm also a technician at RCE Manufacturing where my background and personality have made me a unique, curious, and collaborative coworker/employee.
 
-My current goals are to land a full time role in data/software/AI in NYC and to continue to grow my knowledge and professional skills. I'm open to any oppurtunity to grow whether it is a project, start-up, referall, or just a call. 
+My current goals are to land a full time role in NYC and to continue to grow my knowledge and professional skills. I'm open to any oppurtunity to grow whether it is a project, start-up, referall, or just a call. 
 
 **Contact Information**
 
